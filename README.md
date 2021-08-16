@@ -14,9 +14,9 @@ Banglore/Bengaluru ,Karnataka , India
 
 |Name     |  Email   | 
 |---------|-----------------|
+|Fahad Mehfooz |    fahad.mehfoooz@gmail.com    |
 |Saifuddin Raja |     saifuddin.raja24@gmail.com    |
 |Varun Nayyar |     nayyar.varun84@gmail.com    |
-|Fahad Mehfooz |    fahad.mehfoooz@gmail.com    |
 |Shubham Bareja |     sbshubham23@gmail.com    |
 |Pooja Rana |     rana.pooja800@gmail.com    |
 |Anirudh Upadhyay |     anirudh31ajm@gmail.com    |
