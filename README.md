@@ -1,4 +1,4 @@
-# AlmaBetter EDA Capstone Project 1 Worldbank EdStats
+#  EDA Worldbank EdStats
 
 This project is a part of the [AlmaBetter Premium Program](https://www.almabetter.com/) , 
 Banglore/Bengaluru ,Karnataka , India
