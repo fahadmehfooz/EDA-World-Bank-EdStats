@@ -1,7 +1,5 @@
 #  EDA Worldbank EdStats
 
-This project is a part of the [AlmaBetter Premium Program](https://www.almabetter.com/) , 
-Banglore/Bengaluru ,Karnataka , India
 
 ### Data_Store
  is a shortcut the the folder containing the multiple CSV files asscoiated with this Project
