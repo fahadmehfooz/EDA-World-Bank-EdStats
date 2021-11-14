@@ -31,21 +31,35 @@
 
 ## EDA 
 
+![alt text](https://github.com/fahadmehfooz/EDA-World-Bank-EdStats/blob/main/images/world%20gdp.png)
+
+
 ### For BRIC countries:
-* Population Analysis:
-1) As depicted by the graph, the population trends for INDIA and CHINA are the similar. Same can be said for the other 3 countries.
-2) The populations for Russia,  SA, Brazil stayed relatively stable.
+1) Population Analysis:
+* As depicted by the graph, the population trends for INDIA and CHINA are the similar. Same can be said for the other 3 countries.
+* The populations for Russia,  SA, Brazil stayed relatively stable.
 
-* PRE-PRIMARY GROSS Enrollment Ratio Analysis:
-1) INDIA performs poorly when it comes to enrollment of children in pre-primary classrooms
-2) The enrollment % for India is merely 10% towards the end of 2015 whereas it is roughly 80% for other BRICS members
+![alt text](https://github.com/fahadmehfooz/EDA-World-Bank-EdStats/blob/main/images/population%20analysis.png)
 
-* TERTIARY GROSS Enrollment Ratio Analysis:
-1)From this graph we can see that Russia has always had a greater percentage of its young population in the universities and colleges(around 80% of youth aged between 16 and 21 in 2015).
-2) The number of young adults in colleges has been rising for almost every BRICS country throughout the last 4 decades
+2) PRE-PRIMARY GROSS Enrollment Ratio Analysis:
+* INDIA performs poorly when it comes to enrollment of children in pre-primary classrooms
+* The enrollment % for India is merely 10% towards the end of 2015 whereas it is roughly 80% for other BRICS members
 
-* Mortality Rate Analysis:
-1) As countries become more educated, the mortality rates drop, and the rate of drop is higher in countries where more focus was laid on tertiary education for previous generations.
+![alt text](https://github.com/fahadmehfooz/EDA-World-Bank-EdStats/blob/main/images/PRE%20PRIMARY%20GROSS%20Enrollment%20Ratio%20Analysis.png)
+
+3) TERTIARY GROSS Enrollment Ratio Analysis:
+
+* From this graph we can see that Russia has always had a greater percentage of its young population in the universities and colleges(around 80% of youth aged between 16 and 21 in 2015).
+* The number of young adults in colleges has been rising for almost every BRICS country throughout the last 4 decades
+
+![alt text](https://github.com/fahadmehfooz/EDA-World-Bank-EdStats/blob/main/images/TERTIARY%20GROSS%20Enrollment%20Ratio%20Analysis.png)
+
+4) Mortality Rate Analysis:
+
+* As countries become more educated, the mortality rates drop, and the rate of drop is higher in countries where more focus was laid on tertiary education for previous generations.
+
+![alt text](https://github.com/fahadmehfooz/EDA-World-Bank-EdStats/blob/main/images/Mortality%20rate%20analysis.png)
+
 
 ### For India, China and USA: Similar eda was performed.
 
